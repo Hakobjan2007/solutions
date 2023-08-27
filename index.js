@@ -18,3 +18,4 @@ function FindPair(nums, k)
 }
 
 FindPair(nums, k);
+// find pair which sum up to K
